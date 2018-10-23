@@ -15,8 +15,8 @@ about: Request a feature/improvement for KiteBoard
 I confirm, that I made the following steps:
 
 <!-- Replace the [ ] with [X] to "check" them -->
-[ ] I checked the [wiki] and/or [plugin-page] for the feature.
-[ ] The feature isn't/wasn't already suggested on [GitHub]
+- [ ] I checked the [wiki] and/or [plugin-page] for the feature.
+- [ ] The feature isn't/wasn't already suggested on [GitHub]
 
 ## Feature
 What feature should be added to KiteBoard?  

@@ -15,8 +15,8 @@ about: Report a bug/issue
 I confirm, that I made the following steps:
 
 <!-- Replace the [ ] with [X] to "check" them -->
-[ ] I read the [Wiki] for any information.
-[ ] I use the latest supported version of KiteBoard. ([download])
+- [ ] I read the [Wiki] for any information.
+- [ ] I use the latest supported version of KiteBoard. ([download])
 
 ## Found issue
 What issue did you found?  
