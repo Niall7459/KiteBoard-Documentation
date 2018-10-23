@@ -3,6 +3,7 @@ name: Bug Report
 about: Report a bug/issue
 
 ---
+
 <!-- Those are default links that are used in the template below -->
 <!-- DON'T TOUCH THEM -->
 [Wiki]: https://github.com/Niall7459/KiteBoard-Documentation/wiki
