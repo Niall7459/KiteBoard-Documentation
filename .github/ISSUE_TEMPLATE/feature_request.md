@@ -21,17 +21,20 @@ I confirm, that I made the following steps:
 ## Feature
 > What feature should be added to KiteBoard?  
 > Describe it as good as possible.
+<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
 
 
 
 ## Reasons to add/improve
 > Why should it be added?  
 > Reasons like "It's cool." don't count! Give *real* reasons.
+<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
 
 
 
 ## Images/Links
 > Provide links/images of the feature/improvement (if possible).
+<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
 
 
 
