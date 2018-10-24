@@ -19,7 +19,7 @@ I confirm, that I made the following steps:
 - [ ] I use the latest supported version of KiteBoard. ([download])
 
 ## Found issue
-What issue did you found?  
+What issue did you find?  
 Try to describe it with only a few words (In one sentence).
 
 
