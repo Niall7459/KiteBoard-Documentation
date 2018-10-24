@@ -19,20 +19,25 @@ I confirm, that I made the following steps:
 - [ ] I use the latest supported version of KiteBoard. ([download])
 
 ## Found issue
-What issue did you find?  
-Try to describe it with only a few words (In one sentence).
+> What issue did you find?  
+> Try to describe it with only a few words (In one sentence).
+
 
 
 ## Expected behaviour
-What *should* the plugin do?
+> What *should* the plugin do?
+
 
 
 ## Actual behaviour
-What does the plugin do instead?
+> What does the plugin do instead?
+
 
 
 ## Images/Links
-Provide links/images of the issue (if possible).
+> Provide links/images of the issue (if possible).
+
+
 
 <!-- Link: [Text](link) -->
 <!-- Image: ![text](image-link) -->

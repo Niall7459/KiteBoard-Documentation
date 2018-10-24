@@ -19,17 +19,21 @@ I confirm, that I made the following steps:
 - [ ] The feature isn't/wasn't already suggested on [GitHub]
 
 ## Feature
-What feature should be added to KiteBoard?  
-Describe it as good as possible.
+> What feature should be added to KiteBoard?  
+> Describe it as good as possible.
+
 
 
 ## Reasons to add/improve
-**Why** should it be added?  
-Reasons like "It's cool." don't count! Give *real* reasons.
+> Why should it be added?  
+> Reasons like "It's cool." don't count! Give *real* reasons.
+
 
 
 ## Images/Links
-Provide links/images of the feature/improvement (if possible).
+> Provide links/images of the feature/improvement (if possible).
+
+
 
 <!-- Link: [Text](link) -->
 <!-- Image: ![text](image-link) -->
