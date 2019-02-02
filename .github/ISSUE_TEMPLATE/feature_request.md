@@ -3,8 +3,7 @@ name: Feature request
 about: Request a feature/improvement for KiteBoard
 
 ---
-<!-- Those are default links that are used in the template below -->
-<!-- DON'T TOUCH THEM -->
+<!-- Please don't touch them -->
 [Wiki]: https://github.com/Niall7459/KiteBoard-Documentation/wiki
 [plugin-page]: https://www.spigotmc.org/resources/13694/
 [GitHub]: https://github.com/Niall7459/KiteBoard-Documentation/issues
@@ -21,23 +20,16 @@ I confirm, that I made the following steps:
 ## Feature
 > What feature should be added to KiteBoard?  
 > Describe it as good as possible.
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
-
+<!-- Please write below this line -->
 
 
 ## Reasons to add/improve
 > Why should it be added?  
 > Reasons like "It's cool." don't count! Give *real* reasons.
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
-
+<!-- Please write below this line -->
 
 
 ## Images/Links
 > Provide links/images of the feature/improvement (if possible).
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
+<!-- Please write below this line. Post images from your clipboard with Ctrl + V -->
 
-
-
-<!-- Link: [Text](link) -->
-<!-- Image: ![text](image-link) -->
-<!-- You can also copy the image to your clipboard and Ctrl + V it here! -->
