@@ -4,8 +4,7 @@ about: Report a bug/issue
 
 ---
 
-<!-- Those are default links that are used in the template below -->
-<!-- DON'T TOUCH THEM -->
+<!-- Please don't touch this -->
 [Wiki]: https://github.com/Niall7459/KiteBoard-Documentation/wiki
 [download]: https://www.spigotmc.org/resources/13694/
 
@@ -21,28 +20,21 @@ I confirm, that I made the following steps:
 ## Found issue
 > What issue did you find?  
 > Try to describe it with only a few words (In one sentence).
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
-
+<!-- Please write below this line -->
 
 
 ## Expected behaviour
 > What *should* the plugin do?
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
-
+<!-- Please write below this line -->
 
 
 ## Actual behaviour
 > What does the plugin do instead?
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
-
+<!-- Please write below this line -->
 
 
 ## Images/Links
 > Provide links/images of the issue (if possible).
-<!-- Leave at least one empty line, to prevent the text to becoma a quote -->
+<!-- Please write below this line. Upload images from your clipboard with Ctrl + V -->
 
 
-
-<!-- Link: [Text](link) -->
-<!-- Image: ![text](image-link) -->
-<!-- You can also copy the image to your clipboard and Ctrl + V it here! -->
