@@ -36,7 +36,7 @@ I confirm, that I made the following steps:
 
 
 ## Images/Links
-> Provide links/images of the issue (if possible).  
-> **Required**: Output (link) of `/kb debug`
+> Please provide any errors you encounter through https://paste.helpch.at (or any other hastebin-fork) and also your configuration.  
+> You can also provide images if needed.
 <!-- Please write below this line. Upload images from your clipboard with Ctrl + V -->
 
