@@ -13,7 +13,7 @@ But that's not all. It also lets you create and manage a custom tablist, makes c
 Everything supports placeholders (either own one or those from [PlaceholderAPI]) and animations!
 
 # Supported versions
-The [latest version][download] of KiteBoard supports CraftBukkit/Spigot 1.8.8 - 1.14.3 (Some features may not be available for certain server versions)
+The [latest version][download] of KiteBoard supports CraftBukkit/Spigot 1.8.8 - 1.14.4 (Some features may not be available for certain server versions)
 
 # Requesting support
 Please check the [wiki] before making an issue!
