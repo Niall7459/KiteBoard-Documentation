@@ -1,42 +1,40 @@
 ---
-name: Bug Report
-about: Report a bug/issue
+name: Issue Report
+about: Report an issue with KiteBoard
 
 ---
-
 <!-- Please don't touch this -->
 [Wiki]: https://github.com/Niall7459/KiteBoard-Documentation/wiki
 [download]: https://www.spigotmc.org/resources/13694/
 [feature request]: https://github.com/Niall7459/KiteBoard-Documentation/issues/new?template=feature_request.md
 
-# Bug Report
-This template is for reporting bugs and issues with the [KiteBoard-plugin][download].  
-Please use the [feature request] template to suggest changes or new features.
+_Use this template as a guideline for reporting KiteBoard related issues. Please use pastebin or another text service for reporting stacktraces._
 
-## Confirmation
-I confirm, that I made the following steps:
+Make sure you have previously:
+- [ ] Read the [Wiki] and Documentation for any information.
+- [ ] Checked you're running a supported KiteBoard version.
+- [ ] Checked the issue is not with a third party plugin. (commonly placeholder expansions)
+**Purchasing Username:** <!-- USERNAME HERE -->
+**Issue**
+<!-- DESCRIBE ISSUE BELOW THIS LINE -->
 
-<!-- Replace the [ ] with [X] to "check" them -->
-- [ ] I read the [Wiki] for any information.
-- [ ] I use the latest supported version of KiteBoard. ([download])
+**Expected Behaviour**
+<!-- DESCRIBE EXPECTED BELOW THIS LINE -->
 
-## Found issue
-> What issue did you find? Describe it like if you would tell a friend.
-<!-- Please write below this line -->
+**Observed Behaviour**
+<!-- DESCRIBE OBSERVED BEHAVIOUR BELOW THIS LINE -->
 
+**Server Software and Version**
+<!-- MC SOFTWARE VERSION BELOW THIS LINE -->
 
-## Expected behaviour
-> What *should* the plugin do?
-<!-- Please write below this line -->
-
-
-## Actual behaviour
-> What *does* the plugin do instead?
-<!-- Please write below this line -->
+**Other Information**
+<!-- ADD ANY OTHER INFO HERE -->
 
 
-## Images/Links
-> Please provide any errors you encounter through https://paste.helpch.at (or any other hastebin-fork) and also your configuration.  
-> You can also provide images if needed.
-<!-- Please write below this line. Upload images from your clipboard with Ctrl + V -->
+I'm using the following plugins in conjuntion with KiteBoard:
+- [ ] Citizens
+- [ ] PlaceholderAPI
+Other's:
 
+**Issue Screenshots or Evidence**
+Upload stacktraces to: https://paste.helpch.at or any other text service.
