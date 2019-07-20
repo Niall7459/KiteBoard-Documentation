@@ -14,7 +14,9 @@ Make sure you have previously:
 - [ ] Read the [Wiki] and Documentation for any information.
 - [ ] Checked you're running a supported KiteBoard version.
 - [ ] Checked the issue is not with a third party plugin. (commonly placeholder expansions)
+
 **Purchasing Username:** <!-- USERNAME HERE -->
+
 **Issue**
 <!-- DESCRIBE ISSUE BELOW THIS LINE -->
 
